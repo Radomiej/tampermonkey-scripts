@@ -9,7 +9,6 @@
 // @homepageURL https://github.com/Radomiej/tampermonkey-scripts
 // @match http://gitlab.itti.com.pl/*/*/pipelines
 // @require http://code.jquery.com/jquery-3.4.1.min.js
-// @icon http://pics.smotri.com/cskins/blue/smiles/bt.gif
 // @grant GM_addStyle
 // @run-at  document-idle
 // ==/UserScript==
