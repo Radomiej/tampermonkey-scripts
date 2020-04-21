@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            GitLab small enhanced
 // @namespace       https://github.com/Radomiej/tampermonkey-scripts
-// @version         0.1.1
+// @version         0.1.2
 // @description     Full brench names in pipeline view
 // @author          radomiej
 // @copyright       2020, radomiej
