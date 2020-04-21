@@ -10,23 +10,21 @@
 // @run-at       document-idle
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
 
-    // Your code here...
-    GM_addStyle ( `
-.ci-table .branch-commit .ref-name {
-max-width: 200px;
-}
-` );
+    GM_addStyle(`
+        .ci-table .branch-commit .ref-name {
+        max-width: 200px;
+        }`
+    );
 
-    window.addEventListener('load', function() {
-        // your code here
-         $('.table-section.section-wrap.section-20').each(function() {
-            $( this ).removeClass( "section-20" ).addClass( "section-30" );
-            console.log("mutuje");}
-         );
+    window.addEventListener('load', function () {
+        $('.table-section.section-wrap.section-20').each(function () {
+            $(this).removeClass("section-20").addClass("section-30");
+            console.log("mutuje");
+        }
+        );
 
     }, false);
-
 })();
