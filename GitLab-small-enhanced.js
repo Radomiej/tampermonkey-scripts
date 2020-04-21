@@ -3,7 +3,10 @@
 // @namespace    https://github.com/Radomiej/tampermonkey-scripts
 // @version      0.1
 // @description  Better brench names in pipelines
-// @author       Radomiej
+// @author       radomiej
+// @copyright    2020, radomiej
+// @license      MIT
+// @homepageURL  https://github.com/Radomiej/tampermonkey-scripts
 // @match        http://gitlab.itti.com.pl/*/*/pipelines
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
 // @grant        GM_addStyle
