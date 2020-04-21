@@ -9,7 +9,7 @@
 // @homepageURL https://github.com/Radomiej/tampermonkey-scripts
 // @match http://gitlab.itti.com.pl/*/*/pipelines
 // @require http://code.jquery.com/jquery-3.4.1.min.js
-// @icon https://github.com/Radomiej/tampermonkey-scripts/raw/1965646c6a9524d77a850e1af240ccead5936d95/gitlab-icon-1-color-black-rgb.png
+// @icon https://raw.githubusercontent.com/Radomiej/tampermonkey-scripts/master/gitlab-icon-1-color-black-rgb.png
 // @grant GM_addStyle
 // @run-at  document-idle
 // ==/UserScript==
