@@ -9,7 +9,7 @@
 // @homepageURL https://github.com/Radomiej/tampermonkey-scripts
 // @match http://gitlab.itti.com.pl/*/*/pipelines
 // @require http://code.jquery.com/jquery-3.4.1.min.js
-// @icon            https://github.com/tumpio/gmscripts/raw/master/Endless_Google/large.png
+// @icon            https://cdn4.iconfinder.com/data/icons/gnome-desktop-icons-png/PNG/32/Gnome-X-Office-Drawing-32.png
 // @grant GM_addStyle
 // @run-at  document-idle
 // ==/UserScript==
