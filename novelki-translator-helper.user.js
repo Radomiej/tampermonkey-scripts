@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Novelki Translator Helper
 // @namespace    https://novelki.pl
-// @version      0.1
+// @version      1.0.0
 // @description  Dodatkowe usprawnienia dla tłumacza
 // @author       radomiej
 // @copyright    2020, radomiej
