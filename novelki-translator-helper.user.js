@@ -3,7 +3,9 @@
 // @namespace    https://novelki.pl
 // @version      0.1
 // @description  Dodatkowe usprawnienia dla tłumacza
-// @author       Radomiej
+// @author       radomiej
+// @copyright    2020, radomiej
+// @license      MIT
 // @match        https://novelki.pl/panel/projects/*/chapters/*
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
 // @require      https://raw.githubusercontent.com/richtr/guessLanguage.js/master/lib/_languageData.js
